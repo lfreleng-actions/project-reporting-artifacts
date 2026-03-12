@@ -1,0 +1,14 @@
+{
+  "project": "O-RAN-SC",
+  "slug": "oran",
+  "gerrit_server": "gerrit.o-ran-sc.org",
+  "jenkins_server": "jenkins.o-ran-sc.org",
+  "github_org": "",
+  "generated_at":     "2026-03-08T07:11:08Z",
+  "workflow_run_id": "22816223132",
+  "workflow_run_number": "183",
+  "workflow_run_attempt": "1",
+  "git_sha": "25361eb53a40170859821004a7c49ad7c257969f",
+  "git_ref": "refs/heads/main",
+  "environment": "production"
+}

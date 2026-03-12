@@ -1,0 +1,14 @@
+{
+  "project": "Opendaylight",
+  "slug": "odl",
+  "gerrit_server": "git.opendaylight.org",
+  "jenkins_server": "jenkins.opendaylight.org",
+  "github_org": "",
+  "generated_at":     "2026-03-05T07:36:43Z",
+  "workflow_run_id": "22707393160",
+  "workflow_run_number": "179",
+  "workflow_run_attempt": "1",
+  "git_sha": "7628f1425ccd707765e57821a16e6b992f18f0a5",
+  "git_ref": "refs/heads/main",
+  "environment": "production"
+}
