@@ -1,0 +1,14 @@
+{
+  "project": "FDio",
+  "slug": "fdio",
+  "gerrit_server": "gerrit.fd.io",
+  "jenkins_server": "jenkins.fd.io",
+  "github_org": "fdio",
+  "generated_at":     "2026-03-31T07:29:06Z",
+  "workflow_run_id": "23785705871",
+  "workflow_run_number": "209",
+  "workflow_run_attempt": "1",
+  "git_sha": "981b919528a4dc68cfb7baebc2dfd7a81e356b84",
+  "git_ref": "refs/heads/main",
+  "environment": "production"
+}
