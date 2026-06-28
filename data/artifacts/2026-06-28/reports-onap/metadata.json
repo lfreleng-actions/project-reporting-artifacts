@@ -1,0 +1,14 @@
+{
+  "project": "ONAP",
+  "slug": "onap",
+  "gerrit_server": "gerrit.onap.org",
+  "jenkins_server": "jenkins.onap.org",
+  "github_org": "",
+  "generated_at":     "2026-06-28T08:06:16Z",
+  "workflow_run_id": "28315994421",
+  "workflow_run_number": "301",
+  "workflow_run_attempt": "1",
+  "git_sha": "1afdc9f3443168baf7edb24e83e7e0890ce6783b",
+  "git_ref": "refs/heads/main",
+  "environment": "production"
+}
